@@ -1,3 +1,44 @@
+Flight Display is a Project which fetch data from Airport Database by Integrating Itself, and Display all the Flight Details on Frontend
+
+It has the Capability to Update the Flight details(Actual flight which exist) and then renders the Updated details in real time to the frontend
+
+Updating flight details will also triggers a Notification service which send Notification to all the Passenger travelling from flight which got updated
+
+
+Tech Stack Use:
+1. Frontend
+  a. HTML, CSS, Javascript
+  b. React.js
+2. Backend
+   a. Java
+   b. Spring
+3. Notification Service
+   a. FCM(Firebase Cloud Messaging)
+4. Database
+   a. MongoDB(Have Connected with the Database in Assumption that database is being Provided, not explicity created DB)
+
+Note: Frontend is Kept simple only to display the Functionalities
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
