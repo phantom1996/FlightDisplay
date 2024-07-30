@@ -20,7 +20,7 @@ Tech Stack Use:
 Note: Frontend is Kept simple only to display the Functionalities
 
 
-
+Added frontend and backend to the same repo.
 
 
 
